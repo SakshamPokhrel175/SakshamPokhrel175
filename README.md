@@ -42,5 +42,6 @@
 ```text
 🎓 B.Tech in Computer Science – Sharda University  
 💼 Full Stack Java Developer | Spring Boot | Angular | MySQL  
-💬 Passionate about clean code, scalable systems, and modern UI/UX  
+💬 Passionate about clean code, scalable systems, and modern UI/UX
+🤝 Open to collaboration and freelance opportunities in Java/Angular/Spring-based solutions  
 🚀 Always learning and building with purpose
