@@ -1,22 +1,46 @@
-<h2 align="center">👋 Hi, I'm Saksham Pokhrel</h2>
-<h4 align="center">Full Stack Java Developer | Angular + Spring Boot | Passionate Tech Learner from Nepal 🇳🇵</h4>
+<!-- Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Saksham+Pokhrel;Full+Stack+Java+Developer;Spring+Boot+%2B+Angular+Specialist;Passionate+Coder+from+Nepal+🇳🇵" alt="Typing Animation" />
+</p>
+
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://github.com/SakshamPokhrel175/SakshamPokhrel175/assets/112869213/13ea1493-cc3f-49f3-b71b-bec635a44f2d" alt="Professional Banner" style="width: 100%; max-width: 800px;" />
+</p>
 
 ---
 
-### 🔗 Connect with me:
-- 💼 [LinkedIn](https://www.linkedin.com/in/saksham-pokhrel-04141a24a)
-- 💻 [GitHub](https://github.com/SakshamPokhrel175)
-- 🌐 [Portfolio](https://sakshampokhrel.com.np/)
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/saksham-pokhrel-04141a24a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/SakshamPokhrel175" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://sakshampokhrel.com.np/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-F48024?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🛠️ Skills & Technologies:
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-E44D26?style=for-the-badge)
-![Servlet](https://img.shields.io/badge/Servlet-black?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### ⚙️ Tech Stack 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
+</p>
+
+---
+
+### ✨ About Me
+```text
+🎓 B.Tech in Computer Science – Sharda University  
+💼 Full Stack Java Developer | Spring Boot | Angular | MySQL  
+💬 Passionate about clean code, scalable systems, and modern UI/UX  
+🚀 Always learning and building with purpose
