@@ -5,7 +5,8 @@
 
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://github.com/SakshamPokhrel175/SakshamPokhrel175/assets/112869213/13ea1493-cc3f-49f3-b71b-bec635a44f2d" alt="Professional Banner" style="width: 100%; max-width: 800px;" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQFH_1q_UBrv8w/profile-displaybackgroundimage-shrink_350_1400/B56ZaBxyqwHgAc-/0/1745934038849?e=1751500800&v=beta&t=Rd4TGB8u0XLD6FhbuWiOGW95bfLaRr4Q-0MfS5fvWJ0" 
+       alt="Professional Banner" style="width: 100%; max-width: 800px;" />
 </p>
 
 ---
