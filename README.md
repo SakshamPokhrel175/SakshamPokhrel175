@@ -7,7 +7,6 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/saksham-pokhrel-04141a24a)
 - 💻 [GitHub](https://github.com/SakshamPokhrel175)
 - 🌐 [Portfolio](https://sakshampokhrel.com.np/)
-- 📧 sakshampokhrel610@gmail.com
 
 ---
 
