@@ -22,7 +22,11 @@
   <a href="https://sakshampokhrel.com.np/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-F48024?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
+  <a href="https://drive.google.com/your-resume-link" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-FF6F00?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
