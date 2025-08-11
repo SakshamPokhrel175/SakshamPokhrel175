@@ -5,9 +5,10 @@
 
 <!-- Professional Banner -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQFH_1q_UBrv8w/profile-displaybackgroundimage-shrink_350_1400/B56ZaBxyqwHgAc-/0/1745934038849?e=1751500800&v=beta&t=Rd4TGB8u0XLD6FhbuWiOGW95bfLaRr4Q-0MfS5fvWJ0" 
+  <img src="https://raw.githubusercontent.com/username/repo/main/banner.png" 
        alt="Professional Banner" style="width: 100%; max-width: 800px;" />
 </p>
+
 
 
 ---
