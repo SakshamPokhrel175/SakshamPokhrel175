@@ -36,7 +36,6 @@
 
 ---
 
-### ⚙️ Tech Stack 
 ### ⚙️ Tech Stack
 <p align="center">
   <a href="https://dev.java/learn/" target="_blank" style="display:inline-block; transition: transform 0.3s, filter 0.3s;">
