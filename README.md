@@ -37,29 +37,31 @@
 ---
 
 ### ⚙️ Tech Stack 
+### ⚙️ Tech Stack
 <p align="center">
-  <a href="https://dev.java/learn/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/>
+  <a href="https://dev.java/learn/" target="_blank" style="display:inline-block; transition: transform 0.3s, filter 0.3s;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60" style="transition: transform 0.3s, filter 0.3s;" onmouseover="this.style.filter='drop-shadow(0 0 8px gold)';this.style.transform='scale(1.1)';" onmouseout="this.style.filter='none';this.style.transform='scale(1)';"/>
   </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60" height="60" style="transition: transform 0.3s, filter 0.3s;" onmouseover="this.style.filter='drop-shadow(0 0 8px lightgreen)';this.style.transform='scale(1.1)';" onmouseout="this.style.filter='none';this.style.transform='scale(1)';"/>
   </a>
   <a href="https://angular.io/docs" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="60" height="60" style="transition: transform 0.3s, filter 0.3s;" onmouseover="this.style.filter='drop-shadow(0 0 8px red)';this.style.transform='scale(1.1)';" onmouseout="this.style.filter='none';this.style.transform='scale(1)';"/>
   </a>
   <a href="https://getbootstrap.com/docs/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60" style="transition: transform 0.3s, filter 0.3s;" onmouseover="this.style.filter='drop-shadow(0 0 8px purple)';this.style.transform='scale(1.1)';" onmouseout="this.style.filter='none';this.style.transform='scale(1)';"/>
   </a>
   <a href="https://dev.mysql.com/doc/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" style="transition: transform 0.3s, filter 0.3s;" onmouseover="this.style.filter='drop-shadow(0 0 8px dodgerblue)';this.style.transform='scale(1.1)';" onmouseout="this.style.filter='none';this.style.transform='scale(1)';"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" style="transition: transform 0.3s, filter 0.3s;" onmouseover="this.style.filter='drop-shadow(0 0 8px orange)';this.style.transform='scale(1.1)';" onmouseout="this.style.filter='none';this.style.transform='scale(1)';"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" style="transition: transform 0.3s, filter 0.3s;" onmouseover="this.style.filter='drop-shadow(0 0 8px blue)';this.style.transform='scale(1.1)';" onmouseout="this.style.filter='none';this.style.transform='scale(1)';"/>
   </a>
 </p>
+
 
 ---
 
