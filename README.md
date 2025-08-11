@@ -3,11 +3,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Saksham+Pokhrel;Full+Stack+Java+Developer;Spring+Boot+%2B+Angular+Specialist;Passionate+Coder+from+Nepal" alt="Typing Animation" />
 </p>
 
-<!-- Animated Banner -->
+<!-- Professional Banner -->
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D5616AQFH_1q_UBrv8w/profile-displaybackgroundimage-shrink_350_1400/B56ZaBxyqwHgAc-/0/1745934038849?e=1751500800&v=beta&t=Rd4TGB8u0XLD6FhbuWiOGW95bfLaRr4Q-0MfS5fvWJ0" 
        alt="Professional Banner" style="width: 100%; max-width: 800px;" />
 </p>
+
 
 ---
 
