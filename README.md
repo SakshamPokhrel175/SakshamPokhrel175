@@ -4,10 +4,14 @@
 </p>
 
 <!-- Professional Banner -->
+<!-- Clickable Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/username/repo/main/banner.png" 
-       alt="Professional Banner" style="width: 100%; max-width: 800px;" />
+  <a href="https://sakshampokhrel.com.np/" target="_blank">
+    <img src="https://media.licdn.com/dms/image/v2/D5616AQFH_1q_UBrv8w/profile-displaybackgroundimage-shrink_200_800/B56ZaBxyqwHgAY-/0/1745934038849?e=2147483647&v=beta&t=jHbJyW-x6Xxkj1VYq-LaevJCh-OouCsAJFigyc-eFC8" 
+         alt="Professional Banner" style="width: 100%; max-width: 800px;" />
+  </a>
 </p>
+
 
 
 
